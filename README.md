@@ -1,6 +1,6 @@
 # Java OOP Exercises
 
-Object-oriented programming exercises in Java — practice with classes, inheritance, and encapsulation.
+Object-oriented programming exercises in Java - practice with classes, inheritance, and encapsulation.
 
 ## Contents
 | File | Concept |
